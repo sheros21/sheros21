@@ -1,4 +1,4 @@
-### Hi, I’m Rosie
+### Hi! 👋 I’m Rosie
 
 <!---
 sheros21/sheros21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
