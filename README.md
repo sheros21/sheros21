@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheros21
+👋 Hi, I’m @sheros21
 
 
 <!---
